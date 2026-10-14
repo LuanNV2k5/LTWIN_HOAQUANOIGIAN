@@ -1,0 +1,9 @@
+## Visual Studio 2022 / .NET gitignore
+bin/
+obj/
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+Data/error.log
